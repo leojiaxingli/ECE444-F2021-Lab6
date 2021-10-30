@@ -39,7 +39,7 @@ def test_index(client):
 
 def test_database(client):
     """initial test. ensure that the database exists"""
-    tester = Path("../test.db").is_file()
+    tester = Path("test.db").is_file()
     assert tester
 
 
