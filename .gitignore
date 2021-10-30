@@ -1,3 +1,7 @@
 .idea/
 .pytest_cache/
-tests/flaskr.db
+
+env
+*.pyc
+*.DS_Store
+__pycache__
