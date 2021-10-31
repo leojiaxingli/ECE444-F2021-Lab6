@@ -1,5 +1,7 @@
 # This repo is a replay of https://github.com/mjhea0/flaskr-tdd
 
+# Test case for group project: https://github.com/ECE444-2021Fall/project1-education-pathways-group-15-apricot-studios/blob/Jiaxing_Lab6_TDD/flask-app/tests/app_test.py#L40-L63
+
 # What are the pros and cons of TDD?
 
 ## Pros
